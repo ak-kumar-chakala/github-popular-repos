@@ -1,0 +1,27 @@
+.avatar-image {
+  height: 200px;
+  width: 200px;
+}
+
+.name {
+  color: red;
+}
+
+.li-item {
+  list-style-type: none;
+  margin: 30px;
+}
+
+.stars-count {
+  display: flex;
+}
+
+.icons-size {
+  height: 20px;
+  width: 20px;
+}
+
+.para-count {
+  margin-top: 0px;
+  margin-left: 10px;
+}

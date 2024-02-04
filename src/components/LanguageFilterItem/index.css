@@ -1,0 +1,17 @@
+.li-item {
+  margin-left: 40px;
+  list-style-type: none;
+}
+
+.tab-button {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.style-tab-button {
+  background-color: transparent;
+  border: #0284c7 2px solid;
+  border-radius: 14px;
+  color: #0284c7;
+  padding: 10px;
+}

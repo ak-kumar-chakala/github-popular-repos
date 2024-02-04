@@ -1,0 +1,35 @@
+.ul-list {
+  display: flex;
+  justify-content: center;
+}
+
+.head-1 {
+  text-align: center;
+  font-family: 'Lobster';
+}
+
+.ul-list-2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.failure-section {
+  height: 100vh;
+  padding: 30px;
+}
+
+.failure-image {
+  height: 400px;
+  width: 600px;
+}
+
+.text-failure {
+  text-align: center;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
